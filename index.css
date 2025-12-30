@@ -1,17 +1,24 @@
-body {
-  background-color: lightblue;
+.group1{
+    background-color: blue
 }
-
-h1 {
-  color: white;
+*{
+    font-family: 'Times New Roman';
+}
+h1{
   text-align: center;
+  text-transform: uppercase;
+
+}
+#outer{
+    font-size : 20px
+}
+#inner{
+    font-size : 10px
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
+div{
+    width : 1000px
+    margin : auto ;
 }
-.heading {
-    font-family: Arial, sans-serif;
-    color: navy;
-}
+
+

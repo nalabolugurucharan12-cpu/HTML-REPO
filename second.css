@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#navbar{
+    background-color: black;
+    height: 50px;
+    color :white;
+    font-size: 25px;
+    margin-bottom : 30px;
+}
+
+#logo{
+    color : yellow;
+    margin-left: 15px;
+}
+
+#Search_bar{
+    background-color: rgb(2, 28, 51);
+}
+
+button{
+    background-color : orange; 
+}
+
+a{
+    margin-right : 200px;
+}
+
+#content{
+    background-color: lightgrey;
+    height : 800px;
+    text-align : center;
+}
+.contentbox{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 20px;
+    display : inline-block;
+    vertical-align: top;
+}
+
+footer{
+    background-color : black;
+    text-align : center;
+    color : white;
+    height : 80px;
+    padding-top : 30px;
+}
+
+img{
+    width : 300px;
+}
+.item_img{
+    text-decoration: underline;
+    text-align: center;
+    font-size : 20px;
+}
+
+.Discount{
+    color : red;
+}
+
+.price{
+    font-weight: bold;
+    font-size : 20px;
+}
